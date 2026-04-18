@@ -13,5 +13,6 @@ public class JavaSocketProgramming {
     public static void main(String[] args) {
         System.out.println("Ini saatnya");
         System.out.println("Ini waktunya");
+        System.out.println("hai");
     }
 }
